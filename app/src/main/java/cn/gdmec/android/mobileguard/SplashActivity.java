@@ -13,6 +13,7 @@ public class SplashActivity extends AppCompatActivity {
         System.out.print("afsdfasdf");
 
         System.out.print("？？？？？？");
+        System.out.print("？？？？？？");
 
     }
 }
